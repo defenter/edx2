@@ -1,0 +1,55 @@
+ body {
+  background-color: #4ABDAC;
+  color: #FFFFFF;
+  font-family: Georgia, serif;
+  
+}
+header {
+  background-color: #F7B733;
+  height: 5em;
+  
+  }
+
+h1 {
+    position: relative;
+    top: 20px;
+}
+h2 {
+    float: right; 
+    clear: right;
+}
+
+#navigation {
+    padding-left: 25%;
+    padding-right: 25%;
+    clear: right;
+}
+
+#navigation li {
+    margin: 10px;
+    float: left;
+    width: 10%;
+    padding: 10px;
+    
+    
+   
+}
+#content {
+    
+  height: 12em;
+  background-color: #DFDCE3;
+  clear: left;
+  padding-left: 10%;
+  margin: 50%;
+
+  border-
+  margin: auto;
+}
+
+div {
+    float: left;
+    width: 35%;  
+  background-color: #FC4A1A;
+  margin: 1%;
+  
+}

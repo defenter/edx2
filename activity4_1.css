@@ -1,0 +1,30 @@
+body {
+    background-color: cyan
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #ffcc00
+
+    
+    
+}
+
+
+h2 {
+    font-family: 'Courier New', Courier, monospace
+
+}
+
+ol {
+    background-color: rgb(87, 187, 187);
+    padding: 1em
+}
+
+li {
+    background-color: #ff6600
+}
+
+p {
+
+}
